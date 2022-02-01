@@ -1,3 +1,5 @@
 # Github profile of Michiel Meeuwissen
 
 link:https://meeuw.org[home page]
+image:https://img.shields.io/twitter/follow/mihxil?logo=twitter&style=for-the-badge[link=https://twitter.com/mihxil]
+
