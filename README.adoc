@@ -2,4 +2,4 @@
 
 link:https://meeuw.org[home page]
 image:https://img.shields.io/twitter/follow/mihxil?logo=twitter&style=for-the-badge[link=https://twitter.com/mihxil]
-mastadon:https://esperanto.masto.host/@mihxil[rel=me]
+mastadon:https://esperanto.masto.host/@mihxil[mastodon rel=me]
