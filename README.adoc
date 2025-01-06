@@ -1,5 +1,127 @@
-# Github profile of Michiel Meeuwissen
+= Github profile of Michiel Meeuwissen
+:toc:
+:toclevels: 2
 
-link:https://meeuw.org[home page]
-image:https://img.shields.io/twitter/follow/mihxil?logo=twitter&style=for-the-badge[link=https://twitter.com/mihxil]
-https://esperanto.masto.host/@mihxil["mastodon", rel=me]
+
+link:https://meeuw.org[personal home page]
+
+link:https://mmprogrami.nl[MMProgrami]
+
+This is my github home page. I use github for several things. Let's highlight a few.
+
+
+== Work related
+
+I initiated or worked on several projects in the repositories of link:https://github.com/vpro[VPRO], link:https://github.com/npo-poms[NPO/POMS],link:https://github.com/mmbase[MMBase],link:https://github.com/beeldengeluid[B&G]
+
+=== vpro-shared
+
+Some generic utilities in link:https://github.com/vpro/vpro-shared[vpro-shared]
+
+Used in poms too
+
+=== docker hosting related
+
+==== tomcat
+
+link:https://github.com/vpro/tomcat[tomcat image]
+
+Used for deployment of stateful sets in community hosting platform of NPO (VPRO & POMS)
+
+==== cleaner
+
+link:https://github.com/vpro/garbage-cleaner[garbage cleaner]. Stateful, e.g. because of log files. Simple sidecar to clean them up now and then
+
+
+==== openshift/helm
+
+link:https://github.com/vpro/openshift-helm[openshift-helm]
+
+Used for building maven/docker
+
+=== Magnolia-related
+
+I initiated/contributed some small projects related to the magnolia CMS.
+
+- link:https://github.com/vpro/jsr107-magnolia[JSR-107 magnolia]
+- link:https://github.com/vpro/jcr-criteria[JCR criteria]
+- link:https://github.com/vpro/magnolia-context-annotations[magnolia-context-annotations]
+- link:https://github.com/vpro/magnolia-vpro-ui[magnolia-vpro-ui]
+- link:https://github.com/vpro/magnolia-jetty[magnolia-jetty]
+
+=== POMS
+
+
+- poms-parent
+- poms-shared
+- amara-poms
+- poms-shared-backend (private)
+- pyapi
+-  api-clients
+- thesaurus
+- keycloak-rfc2037
+
+- kaniko
+- linux with im7
+
+
+=== B&G
+
+- mapping-annotations
+- private repositories
+
+
+
+=== MMBase
+
+link:https://mmbase.org[MMBase] used to have its own (subversion) repository. Most things I copied to github.
+
+link:https://github.com/mmbase[MMBase]
+
+
+==  Personal projects
+
+=== Internationalization
+
+Most of these are actually spin-offs from my work on e.g. poms, and are actually used in that. But they are in many aspects 'too good' now, and
+I just elaborated on them because I'm interested in this kind of stuff...
+
+- https://github.com/mihxil/i18n-iso-639
+- https://github.com/mihxil/i18n-regions
+- some others
+
+=== Math
+
+Even this is actually a spin of. It started just as a small libraries to calculate average durations and so on (with a sliding window)
+
+But it evolved to a library for 'abstract algebra's', because I liked some interface for 'operator like methods'.
+
+I now also use it to e.g. play with some group theory or so.
+
+It also contains a module related to 'property' testing (using jqwik), which I now sometimes use more generally.
+
+- https://github.com/mihxil/math[math]
+
+=== Utilities
+
+- https://github.com/mihxil/json[json]. A json library based on jackson2. I think people use jq for this. It evolved actually from small tools to download entire elastisch or couchdb database. It contains things like 'jsongrep' en 'jsonformat'. It's also java code, so sometimes I use it as a library for similar purpose.
+- https://github.com/mihxil/utils[functional utils]. There are lots of this kind of libraries, but none of them was exactly what I need
+
+=== Miscellaneous
+
+- translations (esperanto)
+  * Kaas
+  * etc.
+- latex2html
+  * Tools to publish those, using LaTeX/HTML
+- espilo
+- vekejo
+
+
+== Other contributions
+
+I (modestly) contributed to some open source projects
+- resteasy
+- tomcat
+- camel
+- ..
