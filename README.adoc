@@ -7,7 +7,7 @@ link:https://meeuw.org[personal home page]
 
 link:https://mmprogrami.nl[MMProgrami]
 
-This is my github home page. I use github for several things. Let's highlight a few.
+This is my github home page. I use github for several things. Lets highlight a few.
 
 
 == Work related
