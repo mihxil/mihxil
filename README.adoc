@@ -7,6 +7,8 @@ link:https://meeuw.org[personal home page]
 
 link:https://mmprogrami.nl[MMProgrami]
 
+link:https://openhub.net/accounts/mihxil[Black duck]
+
 This is my github home page. I use github for several things. Let's highlight a few.
 
 
