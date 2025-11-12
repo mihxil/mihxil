@@ -108,6 +108,7 @@ It also contains a module related to 'property' testing (using jqwik), which I n
 
 - https://github.com/mihxil/json[json]. A json library based on jackson2. I think people use jq for this. It evolved actually from small tools to download entire elastisch or couchdb database. It contains things like 'jsongrep' en 'jsonformat'. It's also java code, so sometimes I use it as a library for similar purpose.
 - https://github.com/mihxil/utils[functional utils]. There are lots of this kind of libraries, but none of them was exactly what I need
+- https://github.com/natty-parser/natty[natty]. In one or two projects we had 'natty' as a dependency for 'natural language parsing'. The project was abandoned and a fork is maintained now here.
 
 === Miscellaneous
 
