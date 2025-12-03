@@ -124,7 +124,9 @@ It also contains a module related to 'property' testing (using jqwik), which I n
 == Other contributions
 
 I (modestly) contributed to some open source projects
+
 - resteasy
 - tomcat
 - camel
+- https://github.com/natty-parser[natty]
 - ..
